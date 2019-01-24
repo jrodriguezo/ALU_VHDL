@@ -1,4 +1,4 @@
---author: Jesus Rodriguez Ovejero
+--author: Jesus RO
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
@@ -18,7 +18,7 @@ end ALU;
 
 architecture a_ALU of ALU is
 
--- señales auxiliares 
+-- seÃ±ales auxiliares 
 -- SUM
 signal suma : STD_LOGIC_VECTOR(7 downto 0);
 signal resta : STD_LOGIC_VECTOR(7 downto 0);
